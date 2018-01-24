@@ -1,0 +1,9 @@
+6254d9312605308ab3cdad264c0facc5 *DESCRIPTION
+380d70df2391385850a4ade72703df04 *NAMESPACE
+104b43a7414eeb73afc5f408f76d9163 *NEWS.md
+62f8df65fca9917b880c58aaa81a397d *R/package.R
+62d2869237174e3785c6c44a26981dd7 *inst/README.Rmd
+fd986616b446c356bf21d32781482c41 *inst/README.markdown
+a5d9c8dc3c24e0a3a0ddf04e9b194c01 *man/show_image.Rd
+d5eac18b5864d7aacc5173cab394348b *tests/testthat.R
+bfc9ab6ad96f15f4cd1d48c6f2617889 *tests/testthat/test.R
